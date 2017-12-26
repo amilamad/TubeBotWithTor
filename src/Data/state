@@ -1,0 +1,52 @@
+# Tor state file last generated on 2017-12-11 09:09:40 local time
+# Other times below are in UTC
+# You *do not* need to edit this file.
+
+Guard in=default rsa_id=40B206539ECDF83ACEAA34245CC82508077BBA14 nickname=TorMeSoftly sampled_on=2017-12-06T02:41:10 sampled_by=0.3.1.9 listed=1
+Guard in=default rsa_id=F7D3EF888541DDE246D36F4E7C8E90F24618910E nickname=peterkofodmedsko sampled_on=2017-12-07T14:09:11 sampled_by=0.3.1.9 listed=1 confirmed_on=2017-12-02T15:06:29 confirmed_idx=0 pb_use_attempts=2.000000 pb_use_successes=2.000000 pb_circ_attempts=116.000000 pb_circ_successes=116.000000 pb_successful_circuits_closed=114.000000 pb_collapsed_circuits=2.000000
+Guard in=default rsa_id=AE02D2E7FC628537D2BE8C7C36BF3CCB5396830C nickname=Unnamed sampled_on=2017-12-07T22:20:37 sampled_by=0.3.1.9 listed=1
+Guard in=default rsa_id=A5945077E0D35729F8E2920A54BE12A0058B403E nickname=radia5 sampled_on=2017-12-06T18:57:00 sampled_by=0.3.1.9 listed=1
+Guard in=default rsa_id=46791D156C9B6C255C2665D4D8393EC7DBAA7798 nickname=KrigHaBandolo sampled_on=2017-11-30T23:58:07 sampled_by=0.3.1.9 listed=1
+Guard in=default rsa_id=21903C26791D59E981EADE5C0AED82997A9C046C nickname=atw sampled_on=2017-11-29T17:45:06 sampled_by=0.3.1.9 listed=1
+Guard in=default rsa_id=F8D27B163B9247B232A2EEE68DD8B698695C28DE nickname=fluxe3 sampled_on=2017-12-02T06:49:47 sampled_by=0.3.1.9 listed=1
+Guard in=default rsa_id=87C08DDFD32C62F3C56D371F9774D27BFDBB807B nickname=Unnamed sampled_on=2017-11-30T19:50:30 sampled_by=0.3.1.9 listed=1
+Guard in=default rsa_id=BC897D06591FB83B76549378A024A44D6F7DC15D nickname=tina sampled_on=2017-12-02T02:34:37 sampled_by=0.3.1.9 listed=1
+Guard in=default rsa_id=9844B981A80B3E4B50897098E2D65167E6AEF127 nickname=0x3d004 sampled_on=2017-11-29T00:25:33 sampled_by=0.3.1.9 listed=1
+Guard in=default rsa_id=CAA7C6FDC858B7A377CD4F007A864B6FEA1471EE nickname=wmLVpr0 sampled_on=2017-12-07T07:56:30 sampled_by=0.3.1.9 listed=1
+Guard in=default rsa_id=0F318808B72A767E8FD973184FDE6D1405C0D395 nickname=tisztaszar sampled_on=2017-12-05T00:18:32 sampled_by=0.3.1.9 listed=1
+Guard in=default rsa_id=87C3049987EF25A4F2E1842FA79AF7A7B49DE6D5 nickname=HackedComputer sampled_on=2017-11-30T10:11:04 sampled_by=0.3.1.9 listed=1
+Guard in=default rsa_id=C170AE5A886C5A09D6D1CF5CF284653632EEF25D nickname=PhantomTrain6 sampled_on=2017-12-10T04:26:52 sampled_by=0.3.1.9 listed=1
+Guard in=default rsa_id=103336165A0D2EFCAD3605339843A0A7710B8B92 nickname=RelayStation sampled_on=2017-12-09T08:02:29 sampled_by=0.3.1.9 listed=1 confirmed_on=2017-12-01T00:16:06 confirmed_idx=2
+Guard in=default rsa_id=D80EA21626BFAE8044E4037FE765252E157E3586 nickname=bonjour1 sampled_on=2017-11-28T16:30:26 sampled_by=0.3.1.9 listed=1
+Guard in=default rsa_id=C52F7A0264AE7C650976166EA13982501EC810CE nickname=Unnamed sampled_on=2017-12-06T22:42:34 sampled_by=0.3.1.9 listed=1 confirmed_on=2017-12-01T20:26:17 confirmed_idx=1 pb_circ_attempts=1.000000 pb_circ_successes=1.000000 pb_successful_circuits_closed=1.000000
+Guard in=default rsa_id=5DB9AE27A44EB7B476CC04A66C67A71C97A001E6 nickname=Chenjesu sampled_on=2017-12-07T23:18:31 sampled_by=0.3.1.9 listed=1
+Guard in=default rsa_id=BFB5FAAB9BBCD4A3D6B537C356CE5DCA2736D9B7 nickname=Dirk sampled_on=2017-11-28T16:10:52 sampled_by=0.3.1.9 listed=1
+Guard in=default rsa_id=D3259F0F1DD2A50C00E995601FC5827115D1EC7D nickname=dardanus sampled_on=2017-12-05T19:47:56 sampled_by=0.3.1.9 listed=1
+TorVersion Tor 0.3.1.9 (git-727d3f1b5e6eeda7)
+LastWritten 2017-12-11 03:39:40
+TotalBuildTimes 117
+CircuitBuildTimeBin 925 6
+CircuitBuildTimeBin 1025 17
+CircuitBuildTimeBin 1075 5
+CircuitBuildTimeBin 1125 24
+CircuitBuildTimeBin 1175 2
+CircuitBuildTimeBin 1225 18
+CircuitBuildTimeBin 1325 8
+CircuitBuildTimeBin 1375 3
+CircuitBuildTimeBin 1425 2
+CircuitBuildTimeBin 1525 6
+CircuitBuildTimeBin 1575 2
+CircuitBuildTimeBin 1625 2
+CircuitBuildTimeBin 1675 2
+CircuitBuildTimeBin 1725 4
+CircuitBuildTimeBin 1775 1
+CircuitBuildTimeBin 1825 1
+CircuitBuildTimeBin 1875 3
+CircuitBuildTimeBin 1925 4
+CircuitBuildTimeBin 2025 1
+CircuitBuildTimeBin 2075 1
+CircuitBuildTimeBin 2125 1
+CircuitBuildTimeBin 4275 1
+CircuitBuildTimeBin 4875 1
+CircuitBuildTimeBin 6325 1
+CircuitBuildTimeBin 6575 1

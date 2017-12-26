@@ -1,0 +1,6 @@
+ControlPort 9051
+HashedControlPassword 16:D14CC89AD7848B8C60093105E8284A2D3AB2CF3C20D95FECA0848CFAD2
+DataDirectory C:\Users\amila.rathnayake\Desktop\Tor Browser\Browser\TorBrowser\Data\Tor
+GeoIPFile C:\Users\amila.rathnayake\Desktop\Tor Browser\Browser\TorBrowser\Data\Tor\geoip
+GeoIPv6File C:\Users\amila.rathnayake\Desktop\Tor Browser\Browser\TorBrowser\Data\Tor\geoip6
+
