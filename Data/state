@@ -1,0 +1,26 @@
+# Tor state file last generated on 2017-12-26 23:59:28 local time
+# Other times below are in UTC
+# You *do not* need to edit this file.
+
+Guard in=default rsa_id=627428836A541C5B17E618B812B079D79FFA57F7 nickname=LAKEYUA sampled_on=2017-12-19T12:01:59 sampled_by=0.3.1.9 listed=1
+Guard in=default rsa_id=A4B6A5B608ABF5D7AB09BF60D4664891B842FB51 nickname=torStrasbourgX01 sampled_on=2017-12-17T10:42:06 sampled_by=0.3.1.9 listed=1
+Guard in=default rsa_id=33999D01376E82734BAF26F6381A9A43176FB213 nickname=itl13 sampled_on=2017-12-21T12:08:50 sampled_by=0.3.1.9 listed=1
+Guard in=default rsa_id=0C039F35C2E40DCB71CD8A07E97C7FD7787D42D6 nickname=libel sampled_on=2017-12-26T04:30:38 sampled_by=0.3.1.9 listed=1
+Guard in=default rsa_id=0C475BA4D3AA3C289B716F95954CAD616E50C4E5 nickname=Freebird32 sampled_on=2017-12-17T08:09:32 sampled_by=0.3.1.9 listed=1
+Guard in=default rsa_id=88E2D25A66ED63030F25819F4ADB7D1AF0E5BD77 nickname=goesta sampled_on=2017-12-23T05:16:13 sampled_by=0.3.1.9 listed=1
+Guard in=default rsa_id=AEE2C957489B1C5059E50AD888D073D36977C443 nickname=toxiroxiUA2 sampled_on=2017-12-21T16:35:24 sampled_by=0.3.1.9 listed=1
+Guard in=default rsa_id=7A98143747A40AA7A5815CADB2E221EBF3E66065 nickname=torden sampled_on=2017-12-18T06:46:44 sampled_by=0.3.1.9 listed=1
+Guard in=default rsa_id=2981EA5E0B28D4E94AF7C2BE4604925ABC4E3B2E nickname=LV1forfun sampled_on=2017-12-23T10:32:06 sampled_by=0.3.1.9 listed=1
+Guard in=default rsa_id=53825DFB32426F4D02E2FAA43AF713DC185299F4 nickname=ZcashTor0lv sampled_on=2017-12-24T10:15:49 sampled_by=0.3.1.9 listed=1
+Guard in=default rsa_id=C86C538EF0A24E010342F30DBCACC2A7EB7CA833 nickname=eowyn sampled_on=2017-12-25T16:50:17 sampled_by=0.3.1.9 listed=1
+Guard in=default rsa_id=8EBB8D1CF48FE2AB95C451DA8F10DB6235F40F8A nickname=0x3d007 sampled_on=2017-12-25T21:38:24 sampled_by=0.3.1.9 listed=1
+Guard in=default rsa_id=3A901D1D97500D021E9BDD2A06BE5A846051CD0F nickname=TykRelay07 sampled_on=2017-12-25T19:35:58 sampled_by=0.3.1.9 listed=1
+Guard in=default rsa_id=461D6EA15966C7F99B43D37ADC116B5B8E47D130 nickname=CryoBBNx sampled_on=2017-12-15T14:11:18 sampled_by=0.3.1.9 listed=1
+Guard in=default rsa_id=031DAA77BBA6CB73C2E2854D0629C54C8A7677DA nickname=archon sampled_on=2017-12-17T14:30:38 sampled_by=0.3.1.9 listed=1
+Guard in=default rsa_id=F604131DCC4303E51DB876A017A3DC9684FD626B nickname=oromis sampled_on=2017-12-21T05:02:03 sampled_by=0.3.1.9 listed=1
+Guard in=default rsa_id=54E33CFE4D731F8AC86A6F9A57463D6CD86DFB92 nickname=macaroni sampled_on=2017-12-16T14:11:45 sampled_by=0.3.1.9 listed=1
+Guard in=default rsa_id=E8AD91641AD1220DE306EEA1CF1036BC5162705F nickname=sa3 sampled_on=2017-12-25T14:26:37 sampled_by=0.3.1.9 listed=1
+Guard in=default rsa_id=2660395008B21139534C01BBC9223F592E6C0DD5 nickname=FehanuhutDoxes8 sampled_on=2017-12-15T07:34:40 sampled_by=0.3.1.9 listed=1
+Guard in=default rsa_id=9285B22F7953D7874604EEE2B470609AD81C74E9 nickname=0x3d005 sampled_on=2017-12-24T00:39:41 sampled_by=0.3.1.9 listed=1
+TorVersion Tor 0.3.1.9 (git-727d3f1b5e6eeda7)
+LastWritten 2017-12-26 18:29:28

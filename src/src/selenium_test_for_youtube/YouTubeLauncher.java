@@ -84,7 +84,8 @@ public class YouTubeLauncher {
 			while ((line = in.readLine()) != null) 
 			{
 				long currentTime = System.currentTimeMillis();				
-				if((currentTime - startTime) >= TOR_SERVICE_TIME_OUT_SECONDS * 1000.0) throw new ServiceFailedException("Starting Tor Failed");			
+				if((currentTime - startTime) >= TOR_SERVICE_TIME_OUT_SECONDS * 1000.0) 
+					throw new ServiceFailedException("Starting Tor Failed");			
 				
 				Utility.log(LogLevel.Debug, line);
 				String completionCheckStr = "Bootstrapped 100%: Done";
@@ -118,10 +119,12 @@ public class YouTubeLauncher {
 		killFireFox();
 		killTor();
 		
-		try {			
+		try {	
+			/* Run tor for listening to the browser requests on socks port. */
 			runTor(4500);
 	
-			m_driver = buildFireFoxDriverForConnectingTor(9050);
+			/* Create driver for connecting to socks port. */
+			m_driver = buildFireFoxDriverForConnectingTor(4500);
 
 			m_driver.get("https://api.ipify.org?format=json");
 			Utility.log(LogLevel.Debug, "Waiting for IP response ");
@@ -144,5 +147,5 @@ public class YouTubeLauncher {
 	private WebDriver 	m_driver 		= null;	
 	private Process 	m_torProcess 	= null;
 	
-	private String 		m_applicationRoot = "\\";
+	private String 		m_applicationRoot = ".";
 }
